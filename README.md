@@ -1,4 +1,4 @@
----
+
 # 🧠 Cérebro do Agente: Roteador de Padrões de Projeto
 
 ## Instruções para a IA (System Prompting Integrado)
